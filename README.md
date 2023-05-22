@@ -1,4 +1,4 @@
-<h1 align="center"><samp>Hello World! ✋ I'm AV Murty
+<h1 align="center"><samp>Hello World! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> I'm AV Murty
 <img src="https://komarev.com/ghpvc/?username=mrarcs&label=Profile%20views&color=0e75b6&style=flat" alt="mrarcs" />
     </samp></h1>
 <p align="center">
