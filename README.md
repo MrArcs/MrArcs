@@ -1,5 +1,15 @@
-<h1 align="center"><samp>Hello World! ✋ I'm AV Murty</samp></h1>
-</br>
+<h1 align="center"><samp>Hello World! ✋ I'm AV Murty
+<img src="https://komarev.com/ghpvc/?username=mrarcs&label=Profile%20views&color=0e75b6&style=flat" alt="mrarcs" />
+    </samp></h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/av-murty-b32a42114/" target="blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://dribbble.com/mr_av" target="blank">
+        <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
+    <a href="https://join.skype.com/invite/iaeU1z469oyV" target="blank">
+        <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype" /></a>
+</p>
+
 <img src="https://res.cloudinary.com/devsmind/image/upload/v1684478498/signature/image-min_w24y2i.jpg" alt="avmurty"/>
 
 <p align="Left">
@@ -22,11 +32,6 @@ Let's connect and explore opportunities to collaborate on exciting projects that
 </samp>
 </p>
 
-<!-- #### <samp> How to reach me </samp>
-[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](http://google.com.au/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://google.com.au/)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](http://google.com.au/)
- -->
 #### <samp>🌱 Learning</samp>
 
 ![Web3](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
@@ -38,7 +43,7 @@ Let's connect and explore opportunities to collaborate on exciting projects that
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![PWA Application](https://img.shields.io/badge/PWA-5A12C8?style=for-the-badge&logo=pwa)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white)
 
 #### <samp>⭐ Frameworks</samp>
@@ -102,8 +107,6 @@ Let's connect and explore opportunities to collaborate on exciting projects that
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)
 
-
-
-<!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ArcsMr) -->
-
-<!-- ![Av's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrArcs&theme=dark&show_icons=true) -->
+#### <samp>⭐ Github Stats</samp>
+![Av's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrArcs&theme=algolia&show_icons=true)
+![Av's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MrArcs&theme=algolia&show_icons=true)
