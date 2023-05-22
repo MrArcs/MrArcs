@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/av-murty-b32a42114/" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://dribbble.com/mr_av" target="blank">
+    <a href="" target="blank">
         <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
     <a href="https://join.skype.com/invite/iaeU1z469oyV" target="blank">
         <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype" /></a>
